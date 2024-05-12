@@ -26,3 +26,4 @@ To get started with the Read-A-While Books Manager, follow these steps:
 4. Run the program
 
 
+![Screenshot](images/books.png)
