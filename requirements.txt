@@ -1,0 +1,6 @@
+# This project has no Python package dependencies
+
+# Tools for managing SQLite databases
+DB Browser for SQLite
+[DB Browser] [https://sqlitebrowser.org/dl/]
+
