@@ -27,3 +27,12 @@ To get started with the Read-A-While Books Manager, follow these steps:
 
 
 ![Screenshot](books.png)
+
+Credits
+Lucille Jordaan - Lead Developer
+
+Resources
+Hyperiondev - Software Engineering Bootcamp.
+Various online resources.
+
+
